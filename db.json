@@ -1,44 +1,46 @@
-{"services":[
-  {
-    "id": 1,
-    "objectID": 1,
-    "supplierID": 1,
-    "begindate": "13/01/2020 11:00",
-    "checkin": "14:00",
-    "checkout": "11:00",
-    "enddate": "16/01/2020 11:00",
-    "name": "Lorem ipsum Hotel",
-    "period": 3,
-    "price": 24.4,
-    "status": 1,
-    "valutum": "euro"
-  },
-  {
-    "id": 1,
-    "objectID": 1,
-    "supplierID": 1,
-    "begindate": "13/01/2020 11:00",
-    "checkin": "14:00",
-    "checkout": "11:00",
-    "enddate": "16/01/2020 11:00",
-    "name": "Lorem ipsum Hotel",
-    "period": 3,
-    "price": 24.4,
-    "status": 1,
-    "valutum": "euro"
-  },
-  {
-    "id": 1,
-    "objectID": 1,
-    "supplierID": 1,
-    "begindate": "13/01/2020 11:00",
-    "checkin": "14:00",
-    "checkout": "11:00",
-    "enddate": "16/01/2020 11:00",
-    "name": "Lorem ipsum Hotel",
-    "period": 3,
-    "price": 24.4,
-    "status": 1,
-    "valutum": "euro"
-  }
-]}
+{
+   "services": [
+      {
+       "id": 1,
+       "objectID": 1,
+       "supplierID": 1,
+       "begindate": "13/01/2020 11:00",
+       "checkin": "14:00",
+       "checkout": "11:00",
+       "enddate": "16/01/2020 11:00",
+       "name": "Lorem ipsum Hotel",
+       "period": 3,
+       "price": 24.4,
+       "status": 1,
+       "valutum": "euro"
+     },
+     {
+       "id": 2,
+       "objectID": 2,
+       "supplierID": 2,
+       "begindate": "13/01/2020 11:00",
+       "checkin": "14:00",
+       "checkout": "11:00",
+       "enddate":  "16/01/2020 11:00",
+       "name": "Lorem ipsum Motel",
+       "period": 3,
+       "price": 24.4,
+       "status": 1,
+       "valutum": "euro"
+     },
+     {
+       "id": 3,
+       "objectID": 3,
+       "supplierID": 3,
+       "begindate": "13/01/2020 11:00",
+       "checkin": "14:00",
+       "checkout": "11:00",
+       "enddate":  "16/01/2020 11:00",
+       "name": "Lorem ipsum Apartman",
+       "period": 3,
+       "price": 24.4,
+       "status": 1,
+       "valutum": "euro"
+     }
+   ]
+}
