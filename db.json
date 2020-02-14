@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "services": [
+      {
+       "id": 1,
+       "objectID": 1,
+       "supplierID": 1,
+       "begindate": "13/01/2020 11:00",
+       "checkin": "14:00",
+       "checkout": "11:00",
+       "enddate": "16/01/2020 11:00",
+       "name": "Lorem ipsum Hotel",
+       "period": 3,
+       "price": 24.4,
+       "status": 1,
+       "valutum": "euro"
+     }
+  ]
 }
